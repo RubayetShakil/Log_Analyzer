@@ -1,0 +1,4 @@
+2026-09-24 08:21:33 INFO User login successful: alice
+2026-09-24 08:22:01 ERROR Database connection failed
+2026-09-24 08:22:17 WARNING Disk usage above 80%
+2026-09-24 08:23:10 ERROR Database connection failed
